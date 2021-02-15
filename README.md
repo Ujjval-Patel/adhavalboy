@@ -26,7 +26,7 @@
 
 
 
-- 🌱 I’m currently learning more about webRTC and DevOps.
+- 🌱 I’m currently learning more about Algorithm, Datastrcutures, and System Design.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/codersfield).
 - 📫 How to reach me: [Twitter - @\_thewal_](https://twitter.com/_thewal_) , [Youtube - @codersfield](https://www.youtube.com/c/CodersField)
 - 😄 Pronouns: He/His
